@@ -18,5 +18,9 @@
 .hero-section h1{
 	text-align: center;
 	background-color: white;
-	font-size: 56;
+	font-size: 3em;
+}
+
+p {
+	font-size: 1em ;
 }
